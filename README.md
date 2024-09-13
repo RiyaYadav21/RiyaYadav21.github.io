@@ -1,1 +1,14 @@
-# RiyaYadav21.github.io
+# RiyaYadav21.github.io 
+
+### Business Analytics 
+
+### Education 
+Business Analytics, MBA 
+Finance, Bachelors 
+
+### Projects
+
+### Work Experience 
+Financial Portfolio, Northwestern Mutual 
+- Big impact project 1! 
+- Big impact project 2! 
